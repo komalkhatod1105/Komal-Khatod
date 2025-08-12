@@ -7,11 +7,11 @@
 - **Programming Languages:** C, C++, Python, Java  
 - **Web Development:** HTML, CSS, JavaScript, React.js  
 - **Database Management:** MySQL, Oracle SQL Developer
-- **Core CS Concepts:** Data Structures & Algorithms, OOP, 
-- **Tools & Platforms:** Git, GitHub, VS Code,Canva,Helpndocs,LucidChart. 
-- **Soft Skills:**  Communication, Problem-Solving.
+- **Core CS Concepts:** Data Structures & Algorithms, OOP
+- **Tools & Platforms:** Git, GitHub, VS Code,Canva,Helpndocs,LucidChart 
+- **Soft Skills:**  Communication, Problem-Solving
 
- Active in: Competitive Programming, Hackathons and GfG .  
+ Active in: Competitive Programming, GfG  
 
 📫 **Contact Me:**  
 - Email: komalkhatod1234@gmail.com  
