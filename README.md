@@ -11,7 +11,7 @@
 - **Tools & Platforms:** Git, GitHub, VS Code,Canva,Helpndocs,LucidChart 
 - **Soft Skills:**  Communication, Problem-Solving
 
- Active in: Competitive Programming, GfG  
+  Active in: Competitive Programming, GfG  
 
 📫 **Contact Me:**  
 - Email: komalkhatod1234@gmail.com  
