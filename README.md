@@ -1,7 +1,7 @@
 ## 👩‍💻 About the Developer
 
- Hi, I’m **Komal Khatod** 👋  
- B.Tech CSE (3rd Year) student passionate about coding, problem-solving, and building impactful projects.   
+ Hi, I am **Komal Khatod** 👋  
+ B.Tech CSE (3rd Year) student passionate about coding, problem-solving and building impactful projects.   
  ## 🛠 Skills
 
 - **Programming Languages:** C, C++, Python, Java  
