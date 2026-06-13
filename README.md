@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-Hi, I'm **Komal Khatod** 👋
+Hi, I am **Komal Khatod** 👋
 
 🎓 B.Tech Computer Science Engineering (Final Year) Student  
 💻 Passionate about Software Development, Problem Solving, and Open Source Contributions  
